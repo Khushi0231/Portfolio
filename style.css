@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #1e1e1e;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #4CAF50;
+}
+
+.project {
+    background: #222;
+    padding: 15px;
+    margin: 10px auto;
+    width: 60%;
+    border-radius: 5px;
+}
