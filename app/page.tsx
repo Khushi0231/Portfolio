@@ -38,7 +38,7 @@ export default function Portfolio() {
           </p>
           <div className="flex justify-center gap-4">
             <a
-              href="//resume.pdf"
+              href="/resume.pdf"
               className="px-6 py-3 bg-purple-600 rounded-full hover:bg-purple-700 transition"
             >
               <FileText className="inline mr-2" /> View Resume
